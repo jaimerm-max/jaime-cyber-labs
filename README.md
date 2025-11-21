@@ -6,12 +6,14 @@ Central Florida | Remote-First | Bilingual English/Spanish
 - Analyzed 1,000+ events/day in Splunk and Microsoft Sentinel (TryHackMe, LetsDefend, DetectionLab)
 - Detected & documented 50+ simulated real-world threats (ransomware, APT, Cobalt Strike, living-off-the-land)
 - Conducted full-cycle vulnerability scans on 200+ assets using Nessus/OpenVAS and wrote prioritized remediation reports
-- Authored 20+ professional incident reports and executive summaries (used as templates by peers)
-- Completed 75+ incident response simulations including containment and timeline reconstruction
+- Completed 75+ Incident Response simulations and authored 20+ reports used as templates by peers.
 - Built and maintain personal SOC-in-a-Box lab (Elastic Stack + Suricata + Velociraptor)
 
 ## Tools & Platforms
-Splunk • Microsoft Sentinel • Nessus • Elastic Stack • Wireshark • Kali Linux • Velociraptor • Suricata
+Splunk • Microsoft Sentinel • Nessus • Elastic Stack • Wireshark • Kali Linux • Velociraptor • Suricata • MITRE ATT&CK
 
-GitHub: https://github.com/jaimerm-max/jaime-cyber-labs  
-LinkedIn: https://linkedin.com/in/jaime-martinez-7746a56
+### Contact
+📧 Email: jaimermv@yahoo.com  
+📱 Phone: 305-720-7577  
+💼 LinkedIn: linkedin.com/in/jaime-martinez-7746a56  
+📍 Central Florida – Remote-First – Willing to Obtain Clearance

@@ -1,0 +1,21 @@
+title: Potential Ransomware Activity
+id: 11111111-1111-1111-1111-111111111111
+description: Detects high-volume file encryption patterns
+author: Jaime R. Martinez
+status: experimental
+logsource:
+  category: filesystem
+  product: windows
+detection:
+  selection:
+    EventID: 466OPLE3
+    TargetFilename|endswith:
+      - '.encrypted'
+      - '.locked'
+  condition: selection
+falsepositives:
+  - Legitimate backup software
+level: high
+tags:
+  - attack.impact
+  - attack.t1486

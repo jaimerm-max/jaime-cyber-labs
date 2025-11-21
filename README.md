@@ -13,5 +13,5 @@ Central Florida | Remote-First | Bilingual English/Spanish
 ## Tools & Platforms
 Splunk • Microsoft Sentinel • Nessus • Elastic Stack • Wireshark • Kali Linux • Velociraptor • Suricata
 
-GitHub: https://github.com/yourusername/jaime-cyber-labs  
+GitHub: https://github.com/jaimerm-max/jaime-cyber-labs  
 LinkedIn: https://linkedin.com/in/jaime-martinez-7746a56
